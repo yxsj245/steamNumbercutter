@@ -1,0 +1,8 @@
+{
+  "runPath":"C:\\Program Files (x86)\\Steam\\Steam.exe",
+  "vdfPath":"C:\\Program Files (x86)\\Steam\\config\\loginusers.vdf",
+  "userName":
+  {
+    "此处替换账号":"此处替换此账号的备注说明(如果没有新账号末尾请勿添加逗号，否则请记住添加逗号再另起一行按照相同方法)"
+  }
+}
